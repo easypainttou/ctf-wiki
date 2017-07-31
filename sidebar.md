@@ -61,10 +61,6 @@
   - [平台篇](/reverse/platform/)
     - [Linux](/reverse/platform/linux)
   - [学习资料](/reverse/resourses)
-- **Mobile**
-  - [简介](/mobile/)
-  - [Android](/mobile/android)
-  - [iOS](/mobile/ios)
 - **Pwn**
   - [简介](/pwn/xman_pwn)
   - 栈溢出
@@ -83,6 +79,18 @@
   - 实战
     - [计算机软件攻防对抗技术](/pwn/windows)
     - [IE 漏洞挖掘](/pwn/ie)
+- **Mobile**
+  - [简介](/mobile/)
+  - [Android](/mobile/android)
+  - [iOS](/mobile/ios)
+- **Android**
+  - [Android 基础](/android/basic_knowledge/android_basic_knowledge)
+  - [Android 程序运行机制概述]()
+  - Android java层相关介绍
+    - [Android smali基本介绍](/android/java_layer/android_smali)
+    - [Android 可执行文件DEX](/android/java_layer/android_executable_file)
+  - Android 原生层相关介绍
+  - Android 逆向分析基本介绍
 - 可执行文件介绍
   - [ELF文件格式](/executable/ELF/ELF)
 
